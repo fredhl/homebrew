@@ -81,6 +81,7 @@ module HomebrewArgvExtension
       outdated
       prune
       unlink formula ...
+      upgrade
 
     Commands useful when contributing:
       create URL
